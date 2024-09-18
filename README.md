@@ -1,2 +1,2 @@
-# WU-JarkomPrak-1
-Write Up Praktikum MK Jarkom Modul 1
+# WU-JarkomPrak-1 IT 23
+Write Up Praktikum MK Jarkom Modul - 1
