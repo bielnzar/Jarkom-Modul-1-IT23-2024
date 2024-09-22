@@ -1,5 +1,7 @@
 # Packets Barrage
 
+![image](https://github.com/user-attachments/assets/8f14f10c-749c-43fe-9443-42a9dd749d27)
+
 ## Q1. Apa IP adress dari attacker?
 
 ![image](https://github.com/user-attachments/assets/75e90e8d-3582-4551-a0c5-00ae97479458)
